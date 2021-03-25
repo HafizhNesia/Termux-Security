@@ -3,13 +3,18 @@ Tampilan Login Bash Shell [ Termux ]
 
 # Donasi Tod
 ```
-[```Pulsa : 6283821705664```]
+Pulsa : 6283821705664
+Atau Chat Me!
+```
+# My API
+```
+[```Hafizh API```](https://hfzhapikey.herokuapp.com)
 ```
 
 # Tutor Install Script
 ```
 $apt update && apt upgrade
-$pkg install git -y
+$pkg install bash -y
 $pkg install git -y
 $git clone https://MrHafizhDev/Termux-Security
 $cd Termux-Security
@@ -23,4 +28,4 @@ Note : Ketik Di Termux Tanpa Tanda [ $ ]
 - My Team
 ```
 
-Happy Coding Ngab >_<
+Happy Coding Tod >_<
