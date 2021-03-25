@@ -4,9 +4,14 @@ Tampilan Login Bash Shell [ Termux ]
 # How To Install
 ```
 $apt update && apt upgrade
+
 $pkg install git bash -y
-$git clone
+
+$git clone https://MrHafizhDev/Termux-Security
+
 $cd Termux-Security
+
 $bash login.sh
+
 ```
-Enjoyyy
+Happy Coding >_<
