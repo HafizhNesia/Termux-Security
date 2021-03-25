@@ -5,10 +5,17 @@ Tampilan Login Bash Shell [ Termux ]
 ```
 $apt update && apt upgrade
 $pkg install git bash -y
+$pkg install git -y
 $git clone https://MrHafizhDev/Termux-Security
 $cd Termux-Security
 $bash login.sh
 
 Note : Ketik Di Termux Tanpa Tanda [ $ ]
 ```
-Happy Coding >_<
+# Spesial Thanks To
+```
+- Hafizh
+- My Team
+```
+
+Happy Coding Ngab >_<
