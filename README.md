@@ -4,8 +4,8 @@ Tampilan Login Bash Shell [ Termux ]
 # Donasi Tod
 ```
 Pulsa : 6283821705664
-Atau [`Chat Me!`](wa.me/6285741056111)
 ```
+Atau [`Chat Me!`](wa.me/6285741056111)
 
 # Sedikit Saran
 ```
@@ -35,9 +35,7 @@ $bash login.sh
 Note : Ketik Di Termux Tanpa Tanda [ $ ]
 ```
 # Spesial Thanks To
-```
-- Hafizh
+- [`Hafizh`](https://github.com/MrHafizhDev)
 - My Team
-```
 
 Happy Coding Tod >_<
