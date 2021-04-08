@@ -5,7 +5,7 @@ Tampilan Login Bash Shell [ Termux ]
 ```
 Pulsa : 6283821705664
 ```
-Atau [`Chat Me!`](wa.me/6285741056111)
+Atau [`Chat Me!`](https://wa.me/6285741056111?text=Bang+Saya+Mau+Donasi+Untuk+Anda+)
 
 # Sedikit Saran
 ```
