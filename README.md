@@ -33,7 +33,7 @@ $bash login.sh
 Note : Ketik Di Termux Tanpa Tanda [ $ ]
 ```
 # Thanks To
-- ***Allah SWT**
+- **Allah SWT**
 - **Orang Tua**
 - **[`Hafizh`](https://github.com/MrHafizhDev)**
 - **Shell**
