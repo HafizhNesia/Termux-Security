@@ -1,11 +1,9 @@
 # Script Termux Security
 Tampilan Login Bash Shell [ Termux ]
 
-# Donasi Tod
-```
-Pulsa : 6283821705664
-```
-Atau [`Chat Me!`](https://wa.me/6285741056111?text=Bang+Saya+Mau+Donasi+Untuk+Anda+)
+# Web Donate
+
+[`Chat Hafizh`](https://wa.me/6285741056111?text=Bang+Saya+Mau+Donasi+Untuk+Anda+Dengan+Metode+Pembayaran+)
 
 # Sedikit Saran
 ```
@@ -34,11 +32,11 @@ $bash login.sh
 
 Note : Ketik Di Termux Tanpa Tanda [ $ ]
 ```
-# Makasih Kepada
-- Allah SWT
-- Orang Tua
-- [`Hafizh`](https://github.com/MrHafizhDev)
-+ Shell
-- My Team
+# Thanks To
+- ***Allah SWT**
+- **Orang Tua**
+- **[`Hafizh`](https://github.com/MrHafizhDev)**
+- **Shell**
+- **My Team**
 
-Happy Coding Tod >_<
+**Happy Coding Tod >_<**
